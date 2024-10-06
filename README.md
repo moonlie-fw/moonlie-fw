@@ -5,7 +5,6 @@
 
 <img align="right" alt="data engineering" width="400" src="https://bridgentech.com/wp-content/uploads/2023/06/Data-Engineering.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moonlie-fw" alt="moonlie-fw" /></a> </p>
 
 - 🌱 I’m currently learning **Databricks Certified Data Engineering Associate (in progress)**
 
